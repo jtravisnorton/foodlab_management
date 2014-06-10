@@ -1,4 +1,4 @@
-#Rules for creating lab folders:
+#Rules for creating lab folders
 ##Projects
 ###Root folder naming
 Folders should be named after the project they will organize and should be preceded with `Project_`.
